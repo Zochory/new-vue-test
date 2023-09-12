@@ -5,6 +5,9 @@
   "description": "Performe Local Inference with Ollama",
   "icon": "icon.png",
   "author": "massimiliano_pasquini",
+  "contributors": [
+    "Zochory"
+  ],
   "categories": [
     "Productivity"
   ],
